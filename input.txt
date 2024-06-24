@@ -1,0 +1,12 @@
+true,false,false,false,true,false,false,false,500
+false,true,false,false,false,false,false,false,1000
+false,false,false,true,false,false,false,false,300
+true,false,true,false,false,false,false,false,700
+false,false,false,false,true,false,false,false,600
+true,false,false,false,true,false,false,false,800
+false,false,false,false,true,false,false,false,400
+false,false,false,false,false,true,false,false,500
+false,false,false,false,true,false,false,false,200
+false,false,false,false,true,false,false,false,300
+true,false,false,false,false,false,true,false,700
+true,false,false,false,true,false,false,false,500
