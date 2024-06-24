@@ -1,0 +1,1 @@
+En el archivo 'input.txt', se puede observar que hay suficientes estudiantes (líneas 5, 6, 7, 9, 10, y 12) para activar el mecanismo de retroalimentación. Después de procesar tres estudiantes consecutivos con un tiempo de reconocimiento alto (líneas 5, 6, y 7), el siguiente estudiante (línea 9) será promovido a la cola de alta prioridad.
